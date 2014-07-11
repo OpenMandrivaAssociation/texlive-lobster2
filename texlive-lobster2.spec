@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-lobster2
 Version:	20140110
-Release:	2
+Release:	3
 Summary:	Lobster Two fonts, with support for all LaTeX engines
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/lobster2
