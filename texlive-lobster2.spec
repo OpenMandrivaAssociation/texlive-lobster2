@@ -5,7 +5,7 @@
 # catalog-license ofl
 # catalog-version undef
 Name:		texlive-lobster2
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	Lobster Two fonts, with support for all LaTeX engines
 Group:		Publishing
